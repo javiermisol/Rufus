@@ -13,3 +13,5 @@ Es especialmente útil en casos donde:
 A pesar de su pequeño tamaño, Rufus ofrece todo lo que necesita.
 
 Esta version instalable ejecutable. Instalar con simples pasos. 
+
+Estamos basados en la version original: https://rufus.ie
